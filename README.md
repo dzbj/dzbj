@@ -13,7 +13,7 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [Aqua Roleplay](https://discord.gg/smokeyshit) *(CMG Minigames Re-Make)*
+- [Aqua Roleplay](https://discord.gg/smokeyshit) *(CMG Inspired Fragging Server)*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slobbery&count_private=true&show_icons=true&theme=dracula)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slobbery&" alt="slobbery" /></p>
