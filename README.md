@@ -19,11 +19,12 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [HVC](https://discord.gg/HVC5M)
+- [GMT](https://discord.gg/gmt)
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [HVC](https://discord.gg/HVC5M)
 - [Aqua Roleplay](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
 - [CX Roleplay](https://discord.gg/cx5m) *(British/Semi-RP Fragging Server)*
 - [GBN Roleplay](https://discord.gg/gbn5m) *(British/Semi-RP Fragging Server)*
