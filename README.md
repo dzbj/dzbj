@@ -13,9 +13,8 @@
 <h2 align="center">langs</h2>
 
 <p align="center">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" height="20" width="20" />
 </p>
-
 
 <h2 align="center">current projects</h2>
 
