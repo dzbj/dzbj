@@ -24,6 +24,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [ARMA RP | Car Developer](https://discord.gg/armarp)
 - [HVC](https://discord.gg/HVC5M)
 - [Aqua Roleplay](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
 - [CX Roleplay](https://discord.gg/cx5m) *(British/Semi-RP Fragging Server)*
