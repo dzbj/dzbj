@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 
-- [Currently Looking For Work, Shoot Me A DM Via Discord](https://discord.gg/gmt)
+- [Currently Looking For Work, Shoot Me A DM Via Discord --> j឵#2008
 - [GMT](https://discord.gg/gmt)
 
 <h2 align="center">past projects</h2>
