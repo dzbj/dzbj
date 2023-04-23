@@ -19,6 +19,8 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
+
+- [Currently Looking For Work, Shoot Me A DM Via Discord](https://discord.gg/gmt)
 - [GMT](https://discord.gg/gmt)
 
 <h2 align="center">past projects</h2>
