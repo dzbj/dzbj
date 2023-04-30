@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 
-- Currently Looking For Work, Shoot Me A DM Via Discord --> j឵#2008
+- [FNRDM](https://discord.gg/fnrdm)
 - [GMT](https://discord.gg/gmt)
 
 <h2 align="center">past projects</h2>
