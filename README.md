@@ -26,9 +26,9 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [GMT](https://discord.gg/gmt)
-- [ARMA RP | Car Developer](https://discord.gg/armarp)
-- [HVC](https://discord.gg/HVC5M)
+- [GMT](https://discord.gg/gmt) *(British/Semi-RP Fragging Server)*
+- [ARMA RP | Car Developer](https://discord.gg/armarp) *(CMG Inspired Fragging Server)*
+- [HVC](https://discord.gg/HVC5M) *(British/Semi-RP Fragging Server)*
 - [Aqua Roleplay](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
 - [CX Roleplay](https://discord.gg/cx5m) *(British/Semi-RP Fragging Server)*
 - [GBN Roleplay](https://discord.gg/gbn5m) *(British/Semi-RP Fragging Server)*
