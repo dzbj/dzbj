@@ -20,12 +20,13 @@
 
 (Newest -> Oldest)
 
-- [FNRDM](https://discord.gg/fnrdm)
-- [GMT](https://discord.gg/gmt)
+- [VESPER](https://discord.gg/vesper) *(British/Semi-RP Fragging Server)*
+- [FNRDM](https://discord.gg/fnrdm) *(CMG Inspired Fragging Server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [GMT](https://discord.gg/gmt)
 - [ARMA RP | Car Developer](https://discord.gg/armarp)
 - [HVC](https://discord.gg/HVC5M)
 - [Aqua Roleplay](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
