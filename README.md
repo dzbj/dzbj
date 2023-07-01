@@ -20,12 +20,13 @@
 
 (Newest -> Oldest)
 
-- [GMT](https://discord.gg/gmt) *(British/Semi-RP Fragging Server)*
-- [FNRDM](https://discord.gg/fnrdm) *(CMG Inspired Fragging Server)*
+- [LUNA](https://discord.gg/TKzbeHttd5) *(British/Semi-RP Fragging Server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [GMT](https://discord.gg/gmt) *(British/Semi-RP Fragging Server)*
+- [FNRDM](https://discord.gg/fnrdm) *(CMG Inspired Fragging Server)*
 - [ARMA RP | Car Developer](https://discord.gg/armarp) *(CMG Inspired Fragging Server)*
 - [HVC](https://discord.gg/HVC5M) *(British/Semi-RP Fragging Server)*
 - [Aqua Roleplay](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
