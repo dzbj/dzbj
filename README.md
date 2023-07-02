@@ -20,6 +20,7 @@
 
 (Newest -> Oldest)
 
+- [Server Files](https://discord.gg/barnsyxfoid) *(All CMG/GMT Files Made Public)*
 - [LUNA](https://discord.gg/TKzbeHttd5) *(British/Semi-RP Fragging Server)*
 
 <h2 align="center">past projects</h2>
