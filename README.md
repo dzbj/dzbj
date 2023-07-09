@@ -20,13 +20,13 @@
 
 (Newest -> Oldest)
 
-
+- [LUNA](https://discord.gg/TKzbeHttd5) *(British/Semi-RP Fragging Server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
 
-
+- [GMT](https://discord.gg/gmt) (British/Semi-RP Fragging Server)
 - [LUNA](https://discord.gg/TKzbeHttd5) *(British/Semi-RP Fragging Server)*
 - [FNRDM](https://discord.gg/fnrdm) *(CMG Inspired Fragging Server)*
 - [ARMA RP | Car Developer](https://discord.gg/armarp) *(CMG Inspired Fragging Server)*
@@ -39,6 +39,6 @@
 
 <h2 align="center">stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfoid&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vfoid&" alt="vfoid" /></p>
-<img src="https://komarev.com/ghpvc/?username=eluxbar&color=lightgray" alt="fax" width="" height="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slobbery&count_private=true&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slobbery&" alt="slobbery" /></p>
+<img src="https://komarev.com/ghpvc/?username=slobbery&color=lightgray" alt="fax" width="" height="">
