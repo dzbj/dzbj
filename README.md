@@ -20,12 +20,12 @@
 
 (Newest -> Oldest)
 
-- [GMT](https://discord.gg/gmt) *(British/Semi-RP Fragging Server)*
-- [Server Files](https://discord.gg/barnsyxfoid) *(All CMG/GMT Files Made Public)*
+
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+
 
 - [LUNA](https://discord.gg/TKzbeHttd5) *(British/Semi-RP Fragging Server)*
 - [FNRDM](https://discord.gg/fnrdm) *(CMG Inspired Fragging Server)*
