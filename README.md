@@ -39,9 +39,9 @@
 
 <h2 align="center">stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slobbery&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slobbery&" alt="slobbery" /></p>
-<img src="https://komarev.com/ghpvc/?username=slobbery&color=lightgray" alt="fax" width="" height="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzbj&count_private=true&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzbj&" alt="dzbj" /></p>
+<img src="https://komarev.com/ghpvc/?username=dzbj&color=lightgray" alt="fax" width="" height="">
 
 <h2 align="center">Discord</h2>
 
