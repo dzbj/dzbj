@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 
-- [LUNA](https://discord.gg/TKzbeHttd5) *(British/Semi-RP Fragging Server)*
+- [Remaking CMG...](https://discord.gg/QwwDCZuEf7) *(British/Semi-RP Fragging Server)* 
 
 <h2 align="center">past projects</h2>
 
