@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 
-- [Remaking CMG...](https://discord.gg/QwwDCZuEf7) *(British/Semi-RP Fragging Server)* 
+- Looking for work, dm me on discord: fxid
 
 <h2 align="center">past projects</h2>
 
