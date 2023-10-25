@@ -1,4 +1,4 @@
-<h1>foid</h1>
+<h1>💥/h1>
 
 - jack
 - 15
@@ -6,8 +6,8 @@
 - united kingdom
 
 <p align="center">
-  <a href="https://twitch.tv/ffoid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
-<a href="https://www.youtube.com/@foidd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
+  <a href="https://twitch.tv/zkttttt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
+<a href="https://www.youtube.com/@realzkt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
 <h2 align="center">langs</h2>
@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 
-- Looking for work, dm me on discord: fxid
+- Looking for work, dm me on discord: dzjb
 
 <h2 align="center">past projects</h2>
 
