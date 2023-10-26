@@ -10,7 +10,7 @@
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
  **Main focus**
-- [Project ZKT](https://discord.gg/cmg) (FiveM Semi-Roleplay/Fragging Server)
+- [Fanta (friend group localhost)](https://discord.gg/cmg) (FiveM Semi-Roleplay/Fragging Server)
 
 # <h2 align="center">How can I be contacted?</h2>
 
