@@ -15,13 +15,13 @@
 
 # <h2 align="center">How can I be contacted?</h2>
 
-- You can contact me through my discord | dzbj
+- You can contact me through my discord | eluxbar
 
 <h2 align="center">stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzbj&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzbj&" alt="dzbj" /></p>
-<img src="https://komarev.com/ghpvc/?username=dzbj&color=lightgray" alt="fax" width="" height="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eluxbar&count_private=true&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eluxbar&" alt="eluxbar" /></p>
+<img src="https://komarev.com/ghpvc/?username=eluxbar&color=lightgray" alt="fax" width="" height="">
 
 <h2 align="center">Discord</h2>
 
