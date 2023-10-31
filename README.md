@@ -1,4 +1,4 @@
-<h1>💫</h1>
+<h1>eluxbar</h1>
 
 <img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
 
