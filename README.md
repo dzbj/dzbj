@@ -10,7 +10,8 @@
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
  **Main focus**
-- [Fanta (friend group localhost)](https://discord.gg/cmg) (FiveM Semi-Roleplay/Fragging Server)
+- [BTF](https://discord.gg/btf) (FiveM Semi-Roleplay/Fragging Server)
+- [MEE7](https://discord.gg/neegro) (All-In-One Discord Moderation Bot | Community Manager)
 
 # <h2 align="center">How can I be contacted?</h2>
 
