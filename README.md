@@ -25,4 +25,4 @@
 
 <h2 align="center">Discord</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1082736643372498994)](https://discord.com/users/1082736643372498994)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1076925892489642066)](https://discord.com/users/1076925892489642066)
