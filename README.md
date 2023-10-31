@@ -20,7 +20,7 @@
 <h2 align="center">stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eluxbar&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eluxbar&" alt="eluxbar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eluxbar&" alt="elfbars" /></p>
 <img src="https://komarev.com/ghpvc/?username=eluxbar&color=lightgray" alt="fax" width="" height="">
 
 <h2 align="center">Discord</h2>
