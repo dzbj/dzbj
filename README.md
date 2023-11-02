@@ -15,7 +15,7 @@
 
 # <h2 align="center">How can I be contacted?</h2>
 
-- You can contact me through my discord | eluxbar
+- You can contact me through my discord | dzbj
 
 <h2 align="center">stats</h2>
 
