@@ -10,7 +10,7 @@
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
  **Main focus**
-- [Global Deathmatch]([(https://discord.gg/jzgN9FBszt)]) (FiveM Deathmatch & CMG Inspired Fragging)
+- [Global Deathmatch]([https://discord.gg/jzgN9FBszt]) (FiveM Deathmatch & CMG Inspired Fragging)
 
 # <h2 align="center">How can I be contacted?</h2>
 
