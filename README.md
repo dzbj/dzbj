@@ -9,10 +9,9 @@
 
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
- **Main focus**
 - [VERSE Roleplay]([https://discord.gg/verse5m]) (FiveM Semi-RP & CMG Inspired Fragging vRP Server)
 
-# <h2 align="center">Current Projects?</h2>
+# <h2 align="center">Past Projects?</h2>
 (Newest -> Oldest)
 - [Global Deathmatch]([https://discord.gg/jzgN9FBszt]) (FiveM Deathmatch & CMG Inspired Fragging)
 
