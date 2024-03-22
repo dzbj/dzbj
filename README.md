@@ -18,7 +18,7 @@
 
 # <h2 align="center">How can I be contacted?</h2>
 
-- You can contact me through my discord | pzradise
+- You can contact me through my discord | justausernameicl
 
 <h2 align="center">stats</h2>
 
