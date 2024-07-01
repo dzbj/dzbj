@@ -1,4 +1,4 @@
-<h1>eluxbar</h1>
+<h1>s3rio</h1>
 
 <img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
 
@@ -9,7 +9,7 @@
 
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
-- [XTRA FiveM]([https://dsc.gg/xtraa]) (FiveM Semi-RP & CMG Inspired Gameplay)
+- [AVR Roleplay]([https://discord.gg/avrrp]) (FiveM Semi-RP & CMG Inspired Gameplay)
 
 # <h2 align="center">Past Projects?</h2>
 (Newest -> Oldest)
@@ -18,7 +18,7 @@
 
 # <h2 align="center">How can I be contacted?</h2>
 
-- You can contact me through my discord | justausernameicl
+- You can contact me through my discord | nathalia111
 
 <h2 align="center">stats</h2>
 
